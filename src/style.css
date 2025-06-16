@@ -42,7 +42,7 @@ header {
 }
 
 .link:hover {
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-color: #00acdc;
 }
 
